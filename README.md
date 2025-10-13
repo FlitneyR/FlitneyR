@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlitneyR
-- 👀 I’m interested in: graphics programming and games development
-- 🌱 I’m currently: developing my C++, learning graphics APIs, and trying to make a game engine
+- 👀 I’m interested in graphics programming and games development
+- 💻 I'm currently an Associate Programmer at a co-dev games studio, working mostly on gameplay
 
 <!---
 FlitneyR/FlitneyR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
